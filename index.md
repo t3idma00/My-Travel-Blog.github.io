@@ -12,7 +12,7 @@ Welcome to my travel blog! Here, I will share my travel experiences, tips, and a
 ![Ellivuori](./Ellivuori.jpg)
 
 ### Lush Green Vines at Oulu Botanical Garden  
-![Oulu Botanical Garden](./Oulu-Botanical-Garden.jpg)
+![Oulu Botanical Garden](./Garden.jpg)
 
 ## About Me
 
