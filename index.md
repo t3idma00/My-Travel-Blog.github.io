@@ -25,4 +25,4 @@ Here are a few of my favorite travel destinations:
 - **Rovaniemi** – I embrace the magic of the Arctic, experiencing the Northern Lights and reindeer safaris in the heart of Lapland.
 - **Turku** – I dive into Finland’s rich history, wandering its medieval streets, exploring Turku Castle, and sailing through the picturesque archipelago.
 
-![Travel Image](./Travel-Blog.jpg)
+![Travel Image](./travelBlog.jpg)
