@@ -9,7 +9,7 @@ Welcome to my travel blog! Here, I will share my travel experiences, tips, and a
 ![Levi](./Reindeer.jpg)
 
 ### Golden Fields at Sunset in Ellivuori  
-![Ellivuori](./Ellivuori-Farm.jpg)
+![Ellivuori](./Ellivuori.jpg)
 
 ### Lush Green Vines at Oulu Botanical Garden  
 ![Oulu Botanical Garden](./Oulu-Botanical-Garden.jpg)
