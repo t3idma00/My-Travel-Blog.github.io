@@ -6,7 +6,7 @@ Welcome to my travel blog! Here, I will share my travel experiences, tips, and a
 ## Recent Posts
 
 ### Reindeer Strolling in Levi Forest  
-![Levi](./Reindeer-in-Levi.jpg)
+![Levi](./Reindeer.jpg)
 
 ### Golden Fields at Sunset in Ellivuori  
 ![Ellivuori](./Ellivuori-Farm.jpg)
